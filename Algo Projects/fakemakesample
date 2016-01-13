@@ -1,0 +1,6 @@
+a
+b
+c
+d : a b
+e : b c d
+f : d a e
